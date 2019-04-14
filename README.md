@@ -14,12 +14,12 @@
 ### Code Example
 
 ```ruby
-def my_great_method
-  puts "here it is"
+def example_method
+  puts "This is the method output"
 end
 
 ```javascript
-alert('Hi there');
+alert('Displaying javascript');
 ```
 This README would normally document whatever steps are necessary to get the
 application up and running.
