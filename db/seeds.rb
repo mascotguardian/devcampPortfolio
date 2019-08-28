@@ -39,4 +39,5 @@ end
 
 puts "9 portfolio items created"
 
+
 # The double quotation marks are required to do this type of string interpolation (It would not be dynamic if we use single quotation marks. e.g. it will print the contants as opposed to auto sequential numbering).
